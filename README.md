@@ -29,5 +29,7 @@ I am an engineering student at Canara Engineering College in Mangaluru, passiona
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamCEC&theme=radium" alt="GitHub Streak" />
 </div>
 
+[![Holopin](https://holopin.me/prathamCEC)](https://holopin.io/@prathamCEC)
+
 ---
 ⭐️ *Feel free to explore my repositories and check out my latest work!*
