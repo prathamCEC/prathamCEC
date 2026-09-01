@@ -15,7 +15,6 @@
 - 🧠 Interested in AI/ML and backend development
 - 🐧 Exploring Linux & Docker
 - 🚀 Always learning and building something new
-- ☕ Turning coffee into code
 
 ---
 
@@ -65,7 +64,6 @@
 - 🐧 Linux & System Administration
 - 🐳 Docker & Containerization
 - 🔐 Authentication & API Security
-- 🏗️ System Design
 - 🤖 Machine Learning
 
 ---
